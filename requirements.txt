@@ -3,8 +3,6 @@
   pandas
   numpy
   seaborn
-  matplotlib
   scikit-learn
-  imbalanced-learn
   scipy
-  jupyter
+  jupyter notebook
