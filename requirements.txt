@@ -1,5 +1,10 @@
-# REQUIREMENTS
-pandas
-numpy
-scikit-learn
-seaborn
+#  REQUIREMENTS
+
+  pandas
+  numpy
+  seaborn
+  matplotlib
+  scikit-learn
+  imbalanced-learn
+  scipy
+  jupyter
